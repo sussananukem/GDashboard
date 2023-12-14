@@ -8,7 +8,6 @@ from sklearn.decomposition import PCA
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
-
 import warnings
 warnings.filterwarnings('ignore') 
 
